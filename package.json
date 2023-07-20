@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://MiyawakiGitHub.github.io/portfolio-github/",
+  "homepage": "https://MiyawakiGitHub.github.io/react-portfolio/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MiyawakiGitHub/portfolio-github.git"
+    "url": "https://github.com/MiyawakiGitHub/react-portfolio.git"
   },
   "engines": {
     "node": ">=14.x"
